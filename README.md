@@ -25,24 +25,49 @@ Uma mesma conta pode atuar como motorista ou passageiro. A solução foi conclu�
 
 ## Interface
 
+Capturas reais do aplicativo móvel, extraídas dos anexos do relatório técnico v0.8 (novembro de 2026).
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="assets/home.png" alt="Card de oferta de carona com reputação do motorista" width="225" /></td>
-      <td align="center"><img src="assets/solicitacao-enviada.png" alt="Solicitação de vaga enviada pelo passageiro" width="225" /></td>
-      <td align="center"><img src="assets/solicitacao-recebida.png" alt="Solicitação recebida pelo motorista" width="225" /></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Oferta de carona</strong></td>
-      <td align="center"><strong>Solicitação enviada</strong></td>
-      <td align="center"><strong>Solicitação recebida</strong></td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td align="center"><img src="assets/telas/login.jpg" alt="Login" width="160" /></td>
+<td align="center"><img src="assets/telas/cadastro.jpg" alt="Cadastro" width="160" /></td>
+<td align="center"><img src="assets/telas/inicio.jpg" alt="Início" width="160" /></td>
+<td align="center"><img src="assets/telas/perfil.jpg" alt="Perfil" width="160" /></td>
+<td align="center"><img src="assets/telas/detalhes.jpg" alt="Detalhes" width="160" /></td>
+</tr>
+<tr>
+<td align="center">Login</td>
+<td align="center">Cadastro</td>
+<td align="center">Início</td>
+<td align="center">Perfil</td>
+<td align="center">Detalhes</td>
+</tr>
+</table>
 </div>
 
-*Capturas de componentes reais da interface Flutter, obtidas em testes de widgets com dados fictícios. Não são registros de usuários reais nem fotografias de um dispositivo físico.*
+<div align="center">
+<table>
+<tr>
+<td align="center"><img src="assets/telas/rota.jpg" alt="Percurso" width="160" /></td>
+<td align="center"><img src="assets/telas/solicitacao.jpg" alt="Solicitação" width="160" /></td>
+<td align="center"><img src="assets/telas/pix.jpg" alt="Pix de teste" width="160" /></td>
+<td align="center"><img src="assets/telas/chat.jpg" alt="Chat" width="160" /></td>
+<td align="center"><img src="assets/telas/notificacoes.jpg" alt="Notificações" width="160" /></td>
+</tr>
+<tr>
+<td align="center">Percurso</td>
+<td align="center">Solicitação</td>
+<td align="center">Pix de teste</td>
+<td align="center">Chat</td>
+<td align="center">Notificações</td>
+</tr>
+</table>
+</div>
 
-A identidade visual combina o roxo `#8F16D9`, tipografia Inter e componentes reutilizáveis.
+*Algumas informações de identificação e os códigos de pagamento de teste foram ocultados para publicação.*
+
+A identidade visual utiliza o roxo `#8F16D9`, tipografia Inter e componentes reutilizáveis.
 
 ## Funcionalidades
 
