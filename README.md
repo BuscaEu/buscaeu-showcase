@@ -157,9 +157,3 @@ Este showcase não disponibiliza APK, vídeo integral ou acesso ao código-fonte
 
 Centro Universitário Católico Salesiano Auxilium — UniSALESIANO  
 Tecnologia em Desenvolvimento de Sistemas · Araçatuba/SP · 2026
-
----
-
-<div align="center">
-  <strong>BuscaEu</strong> — organizando caminhos compartilhados.
-</div>
